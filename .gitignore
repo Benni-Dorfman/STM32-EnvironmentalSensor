@@ -1,0 +1,18 @@
+# Build outputs
+Debug/
+Release/
+*.elf
+*.hex
+*.bin
+*.o
+*.d
+*.map
+*.su
+*.stdout
+
+# IDE specific temporary files
+.metadata/
+.settings/
+.history/
+*.launch
+*.log
